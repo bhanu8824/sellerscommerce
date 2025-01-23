@@ -1,0 +1,7 @@
+D:\sellercommerce\MyRazorApp\publish\MyRazorApp.exe
+D:\sellercommerce\MyRazorApp\publish\appsettings.Development.json
+D:\sellercommerce\MyRazorApp\publish\appsettings.json
+D:\sellercommerce\MyRazorApp\publish\MyRazorApp.dll
+D:\sellercommerce\MyRazorApp\publish\MyRazorApp.deps.json
+D:\sellercommerce\MyRazorApp\publish\MyRazorApp.runtimeconfig.json
+D:\sellercommerce\MyRazorApp\publish\MyRazorApp.pdb
